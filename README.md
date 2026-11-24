@@ -10,7 +10,7 @@ This repository hosts a growing collection of classic arcade games engineered fr
 
 ## Games Included
 
-### 1. Smooth Snake (`games/Smooth_Snake`)
+### 1. Snake (`games/Snake`)
 A modern, Google Snake-inspired implementation featuring:
 - **Zero-Flicker Atomic Tile Blitting**: Dynamic elements (head, curved 90° corners, and multi-segment tail) are composed inside a reusable **800-byte (`20×20` RGB565) atomic sprite buffer** and transferred in a single `8 MHz` SPI burst—eliminating screen tearing without exceeding the 2 KB SRAM limit.
 - **Pure Integer (`int16_t`) Graphics Pipeline**: Floating-point math (`float`, `sinf`, `sqrtf`) and per-pixel divisions are completely eliminated from the render loop using `PROGMEM` lookup tables, achieving smooth ~60 FPS frame pacing on an 8-bit MCU.
