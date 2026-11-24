@@ -50,6 +50,12 @@ All games in this repository share the same standardized hardware layout:
 
 https://github.com/user-attachments/assets/a2f6cdf9-5c86-480a-8633-6d99f89bbc9a
 
+
+
+https://github.com/user-attachments/assets/5d37ac77-96aa-4417-a7b8-d07a77a05126
+
+
+
 <img width="3024" height="4032" alt="IMG_9815" src="https://github.com/user-attachments/assets/167fbce6-e121-49dd-8e3f-6800272f141a" />
 <img width="3024" height="4032" alt="IMG_9816" src="https://github.com/user-attachments/assets/51e5356c-5d67-4001-9676-330b64793f44" />
 
